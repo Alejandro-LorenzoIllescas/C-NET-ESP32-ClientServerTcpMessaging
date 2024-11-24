@@ -1,0 +1,15 @@
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\bin\Debug\net8.0\NetClient.exe
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\bin\Debug\net8.0\NetClient.deps.json
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\bin\Debug\net8.0\NetClient.runtimeconfig.json
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\bin\Debug\net8.0\NetClient.dll
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\bin\Debug\net8.0\NetClient.pdb
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.AssemblyInfoInputs.cache
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.AssemblyInfo.cs
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.csproj.CoreCompileInputs.cache
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.sourcelink.json
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.dll
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\refint\NetClient.dll
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.pdb
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\NetClient.genruntimeconfig.cache
+C:\PROJECTS\C-NET-ESP32-ClientServerTcpMessaging\NetClient\NetClient\obj\Debug\net8.0\ref\NetClient.dll
